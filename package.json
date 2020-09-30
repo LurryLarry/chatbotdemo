@@ -4,7 +4,7 @@
   "description": "dialogflow-test",
   "main": "index.html",
   "scripts": {
-    "start": "index.html",
+    "start": "index.php",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
